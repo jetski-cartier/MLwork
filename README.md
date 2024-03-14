@@ -20,3 +20,5 @@ Open and run the train_and_evaluate.ipynb notebook to train and evaluate the Dec
 Analyze the results and visualization provided in the notebook.
 Results
 The results of the model training and evaluation, including accuracy scores and visualization of the accuracy versus maximum depth, are provided in the train_and_evaluate.ipynb notebook.
+
+This repository also contains a linear regression done in excel for the 'x_test' data
